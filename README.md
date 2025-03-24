@@ -1,4 +1,4 @@
-![Renamer Banner](\readme_images\Renamer.png)
+![Renamer Banner](/readme_images/Renamer.png)
 
 The Renamer Application is a Python GUI tool that allows users to rename files in a specified directory based on a mapping defined in an Excel file. It uses [CustomTkinter](https://github.com/TomSchimansky/CustomTkinter) for a modern interface and [pandas](https://pandas.pydata.org/) for handling Excel files.
 
