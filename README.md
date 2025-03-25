@@ -9,12 +9,14 @@ The Renamer Application is a Python GUI tool that allows users to rename files i
 - **Conflict Handling:** Checks for conflicts to avoid overwriting files.
 - **Export Template:** Easily export an Excel template to help users create their mapping files.
 
+![GUI display image](/readme_images/gui_img.png)
+
 
 ## Examples
 
-![GUI display image](/readme_images/gui_img.png)
+<details>
 
-**Bulk renaming .txt files with a numeric suffix (e.g., _1 or (1))** 
+<summary>Bulk renaming .txt files with a numeric suffix (e.g., _1 or (1))</summary>
 
 ![File example image](/readme_images/file.png)
 
@@ -28,9 +30,11 @@ The Renamer Application is a Python GUI tool that allows users to rename files i
 
 ![Renamed file example](/readme_images/file_example.png)
 
-***
+</details>
 
-**Bulk renaming .png files with a numeric suffix (e.g., _1 or (1))**
+<details>
+
+<summary>Bulk renaming .png files with a numeric suffix (e.g., _1 or (1))<summary>
 
 ![File example image](/readme_images/img.png)
 
@@ -42,6 +46,7 @@ The Renamer Application is a Python GUI tool that allows users to rename files i
 
 ![Renamed image example](/readme_images/img_example.png)
 
+</details>
 
 ## Installation
 
