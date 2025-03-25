@@ -34,7 +34,7 @@ The Renamer Application is a Python GUI tool that allows users to rename files i
 
 <details>
 
-<summary>Bulk renaming .png files with a numeric suffix (e.g., _1 or (1))<summary>
+<summary>Bulk renaming .png files with a numeric suffix (e.g., _1 or (1))</summary>
 
 ![File example image](/readme_images/img.png)
 
